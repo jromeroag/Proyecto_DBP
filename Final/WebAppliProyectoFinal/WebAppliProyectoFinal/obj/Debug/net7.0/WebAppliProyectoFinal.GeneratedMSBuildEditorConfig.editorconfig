@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebAppliProyectoFinal
+build_property.RootNamespace = WebAppliProyectoFinal
+build_property.ProjectDir = C:\Users\romer\OneDrive\Escritorio\Final\WebAppliProyectoFinal\WebAppliProyectoFinal\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\romer\OneDrive\Escritorio\Final\WebAppliProyectoFinal\WebAppliProyectoFinal
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Cita/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Doctor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Doctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Doctor/Nuevo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXE51ZXZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Paciente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Paciente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Paciente/Nuevo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVcTnVldm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Portada/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFkYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Portada/NueCar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFkYVxOdWVDYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Portada/NueDer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFkYVxOdWVEZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Portada/NueGine.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFkYVxOdWVHaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Portada/NueMedGe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFkYVxOdWVNZWRHZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Portada/NueNeu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFkYVxOdWVOZXUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Portada/NueOfta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFkYVxOdWVPZnRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Portada/NueOnc.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFkYVxOdWVPbmMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Portada/NuePed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGFkYVxOdWVQZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Usuario/Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Usuario/Nuevo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xOdWV2by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Usuario/Principal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xQcmluY2lwYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/romer/OneDrive/Escritorio/Final/WebAppliProyectoFinal/WebAppliProyectoFinal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-py4vj1ya2r

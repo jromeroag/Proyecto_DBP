@@ -1,0 +1,57 @@
+﻿@model WebAppliProyectoFinal.Models.Paciente
+
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+<head>
+
+</head>
+<body>
+    <div class="boxProducto">
+        <form asp-controller="Portada" asp-action="Grabar" method="post">
+
+            <h1 style="text-align: center;" class="alert alert-success">Nueva Cita Oftaltologia</h1>
+
+            <br />
+
+            <label>Doctora</label>
+            <h1>Miranda Paredes, Luana Carolina</h1>
+
+            <label>ID del Doctor</label>
+            <h1>37474</h1>
+
+
+            <label>ID del Paciente</label>
+            <br />
+            <input type="text" class="form-control" asp-for="Idpa" required />
+            <br /><br />
+            <label>Nombre del Paciente</label>
+            <br />
+            <input type="text" class="form-control" asp-for="Nompa" />
+
+            <br /><br />
+            <label>Apellido del Paciente</label>
+            <br />
+            <input type="text" class="form-control" asp-for="Apepa" />
+
+            <br /><br />
+
+
+
+
+            <hr /><br />
+
+            <div style="text-align: center;" class="d-grid gap-2 col-6 mx-auto">
+                <input type="submit" class="btn btn-success" value="Solicitar cita">
+            </div>
+
+
+        </form>
+    </div>
+</body>
+
+</html>

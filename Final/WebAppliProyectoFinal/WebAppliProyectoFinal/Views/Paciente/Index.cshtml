@@ -1,0 +1,46 @@
+﻿@model IEnumerable<WebAppliProyectoFinal.Models.Paciente>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+
+<head>
+
+</head>
+<body>
+    <h1>Lista de Pacientes Actuales en el Sistema</h1>
+    <div class="boxProducto">
+
+        
+        <a class="btn btn-danger mx-auto" asp-controller="Portada" asp-action="Index">Salir</a>
+
+        @foreach (var item in Model)
+        {
+
+
+            <div class="card m-5" style="min-width:18rem;max-width:30.5%;">
+                <div class="card">
+                    <h5>Nombre: <strong>@item.Nompa</strong></h5>
+                    <h5>Apellido: <strong>@item.Apepa</strong></h5>
+                    <h5>Correo: <strong>@item.Corpa</strong></h5>
+                    <h5>DNI: <strong>@item.Dnipa</strong></h5>
+                    <h5>Celular: <strong>@item.Celpa</strong></h5>
+                </div>
+                <div class="card-footer text-center">
+                     
+                    <a asp-action="Edit" asp-route-id="@item.Idpa" class="btn btn-primary m-2">Editar</a>
+                    <a class="btn btn-outline-danger" asp-action="eliminar" asp-route-id="@item.Idpa">Eliminar Doctor</a>
+                </div>
+            </div>
+        }
+
+
+    </div>
+
+
+</body>
+
+
+</html>

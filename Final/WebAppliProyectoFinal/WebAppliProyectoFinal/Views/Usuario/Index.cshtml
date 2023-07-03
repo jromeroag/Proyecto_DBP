@@ -1,0 +1,55 @@
+﻿@model WebAppliProyectoFinal.Models.Usuario
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+
+    <head>
+        
+       
+
+    </head>
+
+    <body>
+
+        <div>
+
+
+            <div class="login-box">
+
+
+                <img src="img/logo.png" class="avatar" alt="Avatar Image">
+
+                <form asp-controller="Usuario" asp-action="ValidarUsuario">
+
+                    <h1 style="text-align: center;">Login Here</h1>
+
+                    <label for="username">Username</label>
+                    <input type="text" class="form-control" placeholder="Username" asp-for="Nomusu" id="username" maxlength="15"  />
+
+                    <label for="password">Password</label>
+                    <input type="password" class="form-control" placeholder="Password" asp-for="Clausu" id="password" maxlength="15" />
+
+
+                    <input type="submit" value="Sign in">
+
+
+                </form>
+
+
+                <hr />
+
+                <a asp-action="Nuevo">Don't have An account?</a>
+
+
+            </div>
+
+        </div>
+
+
+
+</body>
+
+</html>
